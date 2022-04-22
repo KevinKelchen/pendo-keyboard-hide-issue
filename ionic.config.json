@@ -1,0 +1,7 @@
+{
+  "name": "pendo-keyboard-hide-issue",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}

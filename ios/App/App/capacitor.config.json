@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "pendo-keyboard-hide-issue",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
